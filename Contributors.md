@@ -8139,3 +8139,4 @@ Kunal Khallar - Learning to contribute :)
 - [Sagarisha](https://github.com/SagarishaR)- Nothing is impossible
 - [woozie005](https://github.com/woozie005)
 - [andiparasol](https://github.com/andiparasol)
+- [kittelino](https://github.com/kittelino) - Hello world!
